@@ -1,2 +1,3 @@
 # rupas14
-first update readme
+first update readm
+second update readme
